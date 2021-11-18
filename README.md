@@ -1,6 +1,6 @@
 # Heart-Attack-Prediction
 
-This is a 4 person project and is done through google colab: 
+This is a 4 person project and is done through google colab.
 
 Google Colab: https://colab.research.google.com/drive/1oZijjv-h75QW2OAWkquWCwiak4iMIC-p?usp=sharing
 
